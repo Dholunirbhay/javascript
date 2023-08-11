@@ -11,7 +11,7 @@ const bignum = 343235331331346545n;
 const arr = ["asd","ald","ad"];
 
 let Obj = {
-    name:"ac";
+    name:"ac",
     rollno:4,
 }
 
